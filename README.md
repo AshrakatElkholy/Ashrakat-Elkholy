@@ -2,15 +2,16 @@
 # Hi, I'm Ashrakat Alkholy 👋
 
 ### 🏢 About Me
-- Front-End & Web Developer | Focused on Space Tech  
-- 🎓 Currently studying at **Debi – Space Tech**  
+- Front-End & Web Developer | Focused on Space Tech intenship
+- 🎓 Currently studying at **Debi (revision)
+- Space Tech FrontEnd Internship Trainee
 - 🌍 Lives in Alexandria, Egypt  
 - 💼 Currently looking for **Front-End Developer opportunities**  
 
 ---
 
 ### 🔗 Connect with me
-[LinkedIn](https://www.linkedin.com/in/ashrakat-alkholy) | [Email](mailto:your-email@example.com) | [Portfolio](#) | GitHub: [AshrakatAlkholy](https://github.com/AshrakatAlkholy)
+[LinkedIn](https://www.linkedin.com/in/ashrakat-alkholy) | [Email](mailto:your-email@example.com) 
 
 ---
 
